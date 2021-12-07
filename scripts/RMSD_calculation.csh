@@ -5,7 +5,7 @@
 # rmsd.pml scripts run the PyMOL to calculate the RMSD between two pdb files.
 # Do not forget to change the PyMOL path according to your computer.
 # "list_foldernames.txt" should be given as an input in pdbfolders, which contains the folder names.
-# Outputs: outputs folder is generated with RMS_list amd RMS_"foldernames". RMS_list is the overall output file and RMS_"foldername" files are for each folder.
+# Outputs: outputs folder is generated and includes RMS_"foldernames".
 # Run the code in scripts folder.
 
 #give the folder list in list_foldernames.txt file
