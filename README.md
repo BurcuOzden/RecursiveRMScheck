@@ -16,7 +16,7 @@ $ ./RMSD_calculation.csh
 
 **outputs** folder contains the final RMS files of each folder.
 
-**Note1:** RMSD calculation is performed by using PyMOL. So, if you do not have have it on your computer, you can dowload from the [link](https://pymol.org/2/).
+**Note1:** RMSD calculation is performed by using PyMOL. So, if you do not have it on your computer, you can dowload from the [link](https://pymol.org/2/).
 
 **Note2:** Please _do not_ forget to change the path of PyMOL with the correct path in your computer!
 
